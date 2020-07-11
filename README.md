@@ -1,0 +1,3 @@
+# supermarket-management-system
+study project
+其中服务器端项目文件夹为supermarketAuthServer，客户端项目文件夹为FiveZSeven，其余文件夹只是用来测试，没有任何作用。
